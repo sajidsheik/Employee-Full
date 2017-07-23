@@ -1,0 +1,12 @@
+node_modules
+.idea
+.tmp
+bower_components
+tmp
+.project
+npm-debug.log
+.directory
+.DS_Store
+coverage
+debug.log
+vendor
